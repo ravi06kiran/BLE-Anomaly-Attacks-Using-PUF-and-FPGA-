@@ -1,0 +1,444 @@
+Event Type,MAC,Name,RSSI,TX Power,Conn. Interval,Packet Len,Flags,UUID
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-38,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-72,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-63,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-72,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-72,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-73,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-45,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-66,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-72,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-72,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-37,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-69,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-72,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-72,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-38,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-72,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-72,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-40,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-72,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-38,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-38,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-69,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-38,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-72,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-69,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-38,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-41,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-68,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-69,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-69,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-69,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-69,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-39,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-41,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-71,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-71,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-39,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-65,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-65,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-43,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-43,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-70,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-70,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-42,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-42,9.0,0x0020 - 0x0040,26,,
+Connectable undirected - ADV_IND,D0:EF:76:46:9B:4A,,-64,,,21,0x06,4fafc201-1fb5-459e-8fcc-c5c9c331914b
+Scan response - SCAN_RSP,D0:EF:76:46:9B:4A,ESP32_KAS,-64,,,11,,
+Connectable undirected - ADV_IND,D0:EF:76:45:0F:66,,-44,,0x0020 - 0x0040,9,0x06,
+Scan response - SCAN_RSP,D0:EF:76:45:0F:66,ESP32_Bluetooth,-44,9.0,0x0020 - 0x0040,26,,
